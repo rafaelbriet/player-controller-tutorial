@@ -11,5 +11,5 @@ In the second part of this tutorial, we're going to make the camera follow the c
 And in the third and final part we will add animations to the character.
 
 - Part 1: [Como criar movimentação de personagem para jogos 2D na Unity](https://rockprogramacaoegames.com.br/unity/como-criar-movimentacao-de-personagem-para-jogos-2d-na-unity/)
-- Part 2: Coming soon
-- Part 3: Coming soon
+- Part 2: [Como fazer a câmera seguir o jogador em jogos 2D na Unity](https://rockprogramacaoegames.com.br/unity/como-fazer-a-camera-seguir-o-jogador-em-jogos-2d-na-unity/)
+- Part 3: [Como adicionar animações a personagens em jogos 2D na Unity](https://rockprogramacaoegames.com.br/unity/como-adicionar-animacoes-a-personagens-em-jogos-2d-na-unity/)
